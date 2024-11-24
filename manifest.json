@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "EastCentralIndianaScanner",
+  "version": "1.0",
+  "description": "Extension with a default side panel.",
+  "icons": {
+  "99": "icon-99.png"
+  },
+  "side_panel": {
+    "default_path": "scanner.html"
+  },
+  "permissions": ["sidePanel"]
+}
